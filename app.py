@@ -1064,11 +1064,11 @@ st.markdown("""
 <div class="medisafe-footer">
     <p class="footer-disclaimer">
         <strong>⚠️ Medical Disclaimer:</strong>
-        MediSafe is an AI-powered informational tool only and is not a substitute for professional
+        Medical AI is an AI-powered informational tool only and is not a substitute for professional
         medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider
         before making any medical decisions based on this output.
     </p>
-    <p class="footer-copy">© 2025 MediSafe &nbsp;·&nbsp; AI-Powered Healthcare Solution &nbsp;·&nbsp; Version 3.0</p>
+    <p class="footer-copy">© 2025 Medical AI &nbsp;·&nbsp; AI-Powered Healthcare Solution &nbsp;·&nbsp; Version 3.0</p>
 </div>
 """, unsafe_allow_html=True)
 
