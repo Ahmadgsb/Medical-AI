@@ -716,9 +716,9 @@ st.markdown("""
 
 # ── SIDEBAR ─────────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("### 🏥 About MediSafe")
+    st.markdown("### 🏥 About Medical AI")
     st.markdown("""
-    MediSafe uses advanced deep learning to:
+    Medical AI uses advanced deep learning to:
     - 🔍 Detect medicines from prescription images
     - ⚠️ Identify potential drug interactions
     - 📊 Provide risk assessment
